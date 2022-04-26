@@ -23,7 +23,7 @@ export const MissedQueue = ({
         fontSize="5xl"
         mb="1em"
       >
-        Missed
+        வருகை இல்லை
       </Heading>
       <Flex flexWrap="wrap">
         {

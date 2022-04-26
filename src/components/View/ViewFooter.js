@@ -13,7 +13,7 @@ export const ViewFooter = (props) => {
       <Heading
         textStyle="display2"
         >
-        {t('your-queue-number-may-not-be-called-in-sequence')}
+        {t('உங்கள்-வரிசை-எண்-வரிசையில்-அழைக்கப்படாமல் இருக்கலாம்')}
       </Heading>
     </Center>
   )

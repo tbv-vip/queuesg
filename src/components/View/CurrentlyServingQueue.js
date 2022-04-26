@@ -22,7 +22,7 @@ export const CurrentlyServingQueue = ({
           mb="0.5em"
           flex={1}
         >
-          Counter / Room
+          அறை
         </Heading>
         <Heading
           textStyle="display1"
@@ -30,7 +30,7 @@ export const CurrentlyServingQueue = ({
           mb="0.5em"
           flex={1}
         >
-          Currently serving
+          இலக்கம்
         </Heading>
       </Flex>
 
